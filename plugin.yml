@@ -1,0 +1,7 @@
+name: TestPlug
+main: me.huisos.TestPlug.TestPlug
+version: 1.0
+commands:
+   info:
+      usage: /<command>
+      description: Main Test Command
